@@ -50,7 +50,6 @@ console.log(addKeyAndValue([{name: 'Elie'}, {name: 'Tim'}, {name: 'Matt'}, {name
 
 
 
-
 function vowelCount(str){
   const vowels = 'aeiou';        
   const result = {};              
